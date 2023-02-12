@@ -9,7 +9,7 @@ console.log(toMultiply(3, 12))
 let firstName = "Esther";
 let lastName = "Okon";
 let StuternTrack = "Frontend web development"
-let skills = "swimming, coding, reading and data entry"
+let skills = "swimming, playing volleyball, coding, reading and data entry"
 let favColors = "Red and black"
 let year_of_country_independence = 1960
 
